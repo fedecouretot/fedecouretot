@@ -22,15 +22,16 @@ Currently working with Cypress and JavaScript to build reliable automated tests.
 
 📂 QA Projects
 
-Cypress API Tests
+### Cypress API Tests
 
-Automated tests created using Cypress.
+Automated API tests built with Cypress to validate REST endpoints.
 
 Test scenarios:
 
-- Create resource
-- Invalid request validation
+- Create resource successfully
+- Validate invalid request responses
 - Authentication validation
+- Status code verification
 
 📫 Connect with me
 
