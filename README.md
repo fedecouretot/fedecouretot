@@ -1,6 +1,8 @@
 # Hi, I'm Federico 👋
 
-QA Engineer focused on Software Quality and Test Automation.
+QA Engineer focused on Test Automation, API Testing and Software Quality.
+
+Currently working with Cypress and JavaScript to build reliable automated tests.
 
 ## 🧪 QA Skills
 
