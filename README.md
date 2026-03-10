@@ -1,18 +1,25 @@
- Hi, I'm Federico 👋
+# Hi, I'm Federico 👋
 
-QA Engineer focused on Test Automation, API Testing and Software Quality.
+QA Engineer focused on Software Quality, Test Automation and API Testing.
 
-Currently working with Cypress and JavaScript to build reliable automated tests.
+I work with manual and automated testing to ensure reliable and stable applications.  
+Currently building automated tests using Cypress and JavaScript.
 
- 🧪 QA Skills
+---
+
+## 🧪 QA Skills
 
 - Test Automation
+- Manual Testing
+- Exploratory Testing
 - API Testing
 - Bug Reporting
-- Test Design
+- Test Case Design
 - Regression Testing
 
-🛠 Tools
+---
+
+## 🛠 Tools & Technologies
 
 - Cypress
 - JavaScript
@@ -20,7 +27,9 @@ Currently working with Cypress and JavaScript to build reliable automated tests.
 - Git & GitHub
 - REST API Testing
 
-📂 QA Projects
+---
+
+## 📂 QA Projects
 
 ### Cypress API Tests
 
@@ -33,7 +42,11 @@ Test scenarios:
 - Authentication validation
 - Status code verification
 
-📫 Connect with me
+More QA projects coming soon.
 
-LinkedIn:
+---
+
+## 📫 Connect with me
+
+LinkedIn  
 https://www.linkedin.com/in/federico-martin-couretot-0b30a2186/
