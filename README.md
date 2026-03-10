@@ -50,3 +50,9 @@ More QA projects coming soon.
 
 LinkedIn  
 https://www.linkedin.com/in/federico-martin-couretot-0b30a2186/
+
+---
+
+## 📊 GitHub Stats
+
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedecouretot&show_icons=true)
